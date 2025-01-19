@@ -4,6 +4,9 @@
 
 This Power BI project provides a comprehensive dashboard to analyze the financial performance, occupancy trends, room category insights, and cancellations for ITC Hotels. The dashboard aims to answer critical business questions and offers actionable insights for decision-makers to improve hotel performance and maximize revenue.
 
+## Dataset Link:
+https://drive.google.com/drive/folders/1MGuNzDWtKF1cp4oiaMroRvmU0ZuLp1ah
+
 ## Key Problem Areas Addressed
 
 ### Page 1: Financial Overview & Revenue Performance
